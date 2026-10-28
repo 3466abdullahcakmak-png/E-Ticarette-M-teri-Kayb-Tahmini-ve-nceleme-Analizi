@@ -1,0 +1,769 @@
+﻿CustomerID,Churn_Risk_Skoru,Risk_Segmenti,Kok_Neden_Etiketi,Kampanya_Kodu,Kampanya_Adi,Aksiyon,Teklif,Oncelik,Tahmini_Maliyet
+54004,0.9968,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54849,0.9964,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55493,0.9954,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55474,0.9953,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53231,0.9951,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54395,0.9948,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53374,0.9944,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55328,0.9944,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54017,0.9939,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53402,0.9938,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52818,0.9936,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53858,0.9933,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55072,0.9929,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52659,0.9916,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52257,0.9915,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55487,0.9914,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54375,0.9911,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53076,0.9909,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54023,0.9908,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51470,0.9904,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54624,0.9903,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52582,0.9902,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51112,0.9902,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51189,0.9899,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54872,0.9897,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52568,0.9897,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51478,0.9893,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50021,0.9891,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50333,0.9891,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55397,0.9886,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51245,0.9884,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54060,0.9875,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53379,0.9875,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52817,0.9874,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52513,0.9872,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50571,0.987,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55383,0.9869,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53069,0.9864,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53927,0.9862,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50787,0.986,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52838,0.986,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54285,0.9858,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52057,0.9856,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52925,0.9855,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53583,0.9854,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55053,0.9854,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51372,0.9848,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50339,0.9848,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55500,0.9847,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52672,0.9844,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55093,0.9843,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54881,0.9842,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51724,0.9842,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50559,0.9836,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55158,0.983,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50254,0.9829,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52029,0.9828,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53853,0.9824,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55434,0.9822,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53264,0.982,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53014,0.982,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54734,0.982,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51580,0.982,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51809,0.9818,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54175,0.9817,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51860,0.9817,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52905,0.9815,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54701,0.9811,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55197,0.9811,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55530,0.9802,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54856,0.9802,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55323,0.9802,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51202,0.98,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53411,0.9796,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53602,0.9794,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53154,0.979,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52678,0.979,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50311,0.9787,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51043,0.9787,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52839,0.9786,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54892,0.9778,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52715,0.9776,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50110,0.9775,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55141,0.9774,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53671,0.9774,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55556,0.9767,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52041,0.9765,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51098,0.9762,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54288,0.9762,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54163,0.9758,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52055,0.9754,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53386,0.9754,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50585,0.9754,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54411,0.9752,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52278,0.9752,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53422,0.975,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50808,0.974,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54539,0.974,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53205,0.9739,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54959,0.9738,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51562,0.9734,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54263,0.9733,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52175,0.9733,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50934,0.9729,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51596,0.9725,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50126,0.9725,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53827,0.9722,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50390,0.9721,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54618,0.972,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52482,0.9719,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52832,0.9719,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55221,0.9713,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50449,0.9711,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51919,0.9711,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53336,0.9709,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51038,0.9707,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52821,0.9706,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53623,0.9704,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+53106,0.9702,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54576,0.9702,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53453,0.9701,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51781,0.97,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53489,0.9693,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53327,0.9693,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51786,0.9693,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53877,0.9691,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54806,0.969,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50090,0.969,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54449,0.969,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51789,0.9687,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52836,0.9687,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51149,0.9682,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52034,0.9677,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50564,0.9677,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51560,0.9675,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52941,0.9674,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54070,0.9671,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52532,0.9664,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50587,0.9657,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53964,0.9656,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51538,0.9651,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52831,0.9643,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54353,0.9642,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52144,0.9641,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51208,0.964,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54844,0.9634,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55514,0.9633,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50024,0.9633,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54044,0.9633,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50092,0.9633,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51669,0.9632,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54030,0.963,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55238,0.9629,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53688,0.9624,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51935,0.9621,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52829,0.9618,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52625,0.9612,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55297,0.9608,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54524,0.9601,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53253,0.9598,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50014,0.9591,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55173,0.959,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55347,0.9585,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53768,0.9585,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54604,0.9584,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50637,0.9582,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53751,0.9582,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52107,0.9582,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52725,0.9578,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54261,0.9578,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51255,0.9578,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51266,0.9576,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54614,0.9574,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50883,0.9573,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55314,0.9572,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53727,0.9571,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51360,0.957,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55229,0.956,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53759,0.956,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51703,0.956,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52883,0.955,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53703,0.9549,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53913,0.9548,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52499,0.9545,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55416,0.954,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55551,0.9538,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54081,0.9538,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50086,0.9536,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54797,0.9534,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51062,0.9533,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51803,0.9528,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54086,0.9526,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52823,0.9524,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51415,0.9516,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53972,0.9515,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50319,0.9512,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53953,0.9509,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52182,0.95,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54597,0.9497,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50316,0.9493,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52508,0.9488,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53134,0.9484,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54484,0.9483,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50912,0.9482,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50596,0.9476,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52066,0.9476,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54923,0.9474,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50401,0.9474,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53452,0.9473,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54922,0.9473,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50856,0.9465,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52326,0.9465,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54727,0.9461,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55442,0.9458,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50068,0.9453,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55146,0.9451,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52382,0.9449,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50105,0.9446,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53054,0.9444,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50312,0.9438,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51782,0.9438,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50656,0.9434,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53946,0.9433,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54821,0.943,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55218,0.9429,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51785,0.9423,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50315,0.9423,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52002,0.9421,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54230,0.9416,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53844,0.9415,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52979,0.9412,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54133,0.9408,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54187,0.9408,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50002,0.9407,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54529,0.9405,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55540,0.9403,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51012,0.9402,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51709,0.9401,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50019,0.94,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51229,0.9398,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51348,0.9392,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54909,0.939,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53439,0.939,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53148,0.939,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50329,0.9388,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50017,0.9386,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50620,0.9378,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52090,0.9378,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52402,0.9377,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50882,0.9373,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53351,0.9373,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54195,0.937,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54675,0.9366,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53435,0.9365,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54905,0.9365,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52362,0.9356,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51761,0.9354,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52711,0.9354,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51241,0.9354,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50291,0.9354,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50465,0.9352,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52327,0.935,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52583,0.9347,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50003,0.9347,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52456,0.9344,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54596,0.9343,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50023,0.9343,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51473,0.9343,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52601,0.9339,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52039,0.9336,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51131,0.9335,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50873,0.9334,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53672,0.9331,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55142,0.9331,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52423,0.9323,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54575,0.9322,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50022,0.9319,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51472,0.9319,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53126,0.9317,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+53697,0.9315,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53748,0.931,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51556,0.9308,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53257,0.9306,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50936,0.9303,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55168,0.9302,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54870,0.9294,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51271,0.9292,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50169,0.9289,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52013,0.9279,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52353,0.9277,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54867,0.9277,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50667,0.9275,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+55603,0.9271,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52901,0.927,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51871,0.9269,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50601,0.9267,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51886,0.9267,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51639,0.9266,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50199,0.9265,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50857,0.9262,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52907,0.9259,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54377,0.9259,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55410,0.9255,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53347,0.9255,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53940,0.9255,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52142,0.9252,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51157,0.9252,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52736,0.9249,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50932,0.9238,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55267,0.9238,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54546,0.9236,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50004,0.9231,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51367,0.9231,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53027,0.9228,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50290,0.9224,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55423,0.9216,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54371,0.9204,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52699,0.9204,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52627,0.9202,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50164,0.9201,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51138,0.9199,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53131,0.9198,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55526,0.9198,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54056,0.9198,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53928,0.919,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55003,0.9181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52293,0.9181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50823,0.9181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53048,0.9181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52406,0.9174,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54600,0.9172,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53130,0.9172,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51446,0.9171,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50016,0.9171,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55374,0.9166,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50624,0.9163,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52094,0.9163,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55398,0.9157,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54952,0.9148,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50467,0.9146,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51937,0.9146,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53904,0.9146,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54752,0.9139,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52862,0.9139,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54332,0.9139,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52137,0.9139,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50532,0.9132,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51960,0.9126,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53280,0.9125,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53533,0.9125,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51113,0.9122,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54674,0.9119,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50442,0.9115,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52834,0.9114,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51215,0.9109,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52292,0.9106,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53298,0.9091,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53282,0.9087,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53747,0.9077,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54723,0.9074,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51767,0.907,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50297,0.907,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54828,0.9062,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54087,0.9052,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52138,0.9046,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54886,0.9043,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50135,0.904,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53580,0.9036,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50982,0.9032,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51682,0.902,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51991,0.902,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53482,0.9016,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53127,0.9015,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50239,0.9012,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52816,0.9009,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51908,0.9007,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51731,0.9006,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54272,0.9003,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52619,0.9001,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50389,0.8999,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50162,0.8994,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53440,0.8991,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50521,0.8989,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50490,0.8987,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53059,0.8983,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54854,0.8981,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55407,0.898,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53937,0.898,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52122,0.8976,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52414,0.8974,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50944,0.8974,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52658,0.8973,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51188,0.8973,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50953,0.8969,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51448,0.8968,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54641,0.8968,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53171,0.8968,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50736,0.8961,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52358,0.8961,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53948,0.8961,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55418,0.8961,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51634,0.8957,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55074,0.8955,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50607,0.895,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51575,0.8949,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50638,0.8949,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53397,0.8947,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50712,0.8945,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52608,0.894,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52206,0.8937,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51912,0.8935,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53637,0.8935,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52592,0.893,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50416,0.8927,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50822,0.892,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50668,0.8918,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51337,0.8913,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53416,0.8904,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54454,0.8901,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51029,0.8899,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52603,0.8899,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51133,0.8899,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53676,0.8898,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+55108,0.8887,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51166,0.8885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55219,0.8885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52636,0.8885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53914,0.8883,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52108,0.8872,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+55217,0.8856,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54941,0.885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53471,0.885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51320,0.885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52790,0.885,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52685,0.8841,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50006,0.8837,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51468,0.8809,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50851,0.8809,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53467,0.8807,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53358,0.8802,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50261,0.8798,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52077,0.8793,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50986,0.8793,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53144,0.8778,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51714,0.8777,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51517,0.8774,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50047,0.8774,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52784,0.8773,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52841,0.8759,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54301,0.8759,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53219,0.8758,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54293,0.8756,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54750,0.8756,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54830,0.8756,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53643,0.8749,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52238,0.8748,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53666,0.8747,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53551,0.8745,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50423,0.8744,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51799,0.8734,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53170,0.8733,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50242,0.8728,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50345,0.8724,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54127,0.8722,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51953,0.8722,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54910,0.8719,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54447,0.8714,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53400,0.8711,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50652,0.8709,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52547,0.8704,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+53988,0.8703,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50897,0.8697,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50672,0.8694,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51382,0.868,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53360,0.8677,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52126,0.8676,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54957,0.8671,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52404,0.8671,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54066,0.8669,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53487,0.8666,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54135,0.8666,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55605,0.8666,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54665,0.8664,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52095,0.8657,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53981,0.8652,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55451,0.8652,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51551,0.8651,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50081,0.8651,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52895,0.8647,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+53018,0.8647,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50582,0.8643,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52071,0.8642,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52452,0.8641,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54152,0.8639,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50933,0.8635,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52147,0.8635,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52403,0.8635,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50543,0.8628,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50909,0.8628,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50147,0.8628,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51859,0.8622,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52807,0.8621,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54343,0.8616,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54601,0.8615,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52920,0.8614,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52984,0.8611,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53105,0.8611,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50212,0.8611,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54817,0.861,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50628,0.8601,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52431,0.8598,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53483,0.8592,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50233,0.8588,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54182,0.8586,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52517,0.8586,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52819,0.8586,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54950,0.8583,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53480,0.8583,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51760,0.8581,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51751,0.8577,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50281,0.8577,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52367,0.8576,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53113,0.8573,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54990,0.8558,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51815,0.855,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52824,0.8542,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51632,0.8531,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51642,0.852,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52298,0.8517,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54938,0.8514,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53468,0.8514,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55384,0.8513,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52741,0.8507,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50438,0.8506,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53749,0.8504,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50842,0.8502,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51617,0.8492,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55136,0.8489,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54129,0.8486,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55599,0.8486,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53604,0.8482,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53962,0.8481,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55432,0.8481,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50172,0.8478,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50689,0.8475,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51081,0.8472,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54518,0.8468,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50018,0.8464,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51453,0.8464,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50404,0.8455,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54390,0.8436,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52135,0.8428,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50665,0.8428,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55622,0.8424,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53724,0.8413,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51047,0.8401,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51251,0.84,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52378,0.8398,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54215,0.8386,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52742,0.8376,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50026,0.8365,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51486,0.8365,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52321,0.8363,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52721,0.8361,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55536,0.8357,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55193,0.8353,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50653,0.8348,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54497,0.8331,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55113,0.8329,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54397,0.8325,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53529,0.8325,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+52927,0.8325,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51605,0.8323,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50768,0.8319,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53520,0.8313,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52052,0.8311,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55458,0.8306,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54268,0.8301,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50244,0.8295,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53354,0.8275,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54824,0.8275,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50718,0.827,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53384,0.8261,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54997,0.8232,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54161,0.8232,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53527,0.8232,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53216,0.8227,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54686,0.8227,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51272,0.8199,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52188,0.8195,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51982,0.8191,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51516,0.8188,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50512,0.8186,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51457,0.8185,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50545,0.8181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53638,0.817,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54488,0.8169,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50007,0.8164,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51380,0.8164,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51379,0.8164,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55010,0.8149,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52146,0.8141,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50676,0.8141,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51716,0.8136,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52259,0.8117,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50246,0.8112,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52748,0.8089,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50020,0.8086,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50861,0.808,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50789,0.8078,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53277,0.8075,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52828,0.8048,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52379,0.8041,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53698,0.8038,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+55557,0.8036,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52343,0.8015,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54953,0.8008,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50203,0.8008,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54024,0.7999,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50569,0.7999,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54400,0.7998,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+53305,0.7993,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51122,0.7993,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52595,0.7983,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51125,0.7983,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50677,0.7977,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52429,0.7972,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50892,0.7959,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53443,0.7957,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54913,0.7957,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51396,0.7955,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50740,0.7949,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52873,0.7947,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51944,0.7944,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52835,0.7942,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51080,0.7939,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50828,0.7923,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54708,0.7917,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54768,0.7911,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50674,0.7907,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+54283,0.79,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+51099,0.7877,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50474,0.7876,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53061,0.7869,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55494,0.7866,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52837,0.7863,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54287,0.7863,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55194,0.786,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55107,0.7852,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53540,0.7848,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51147,0.7836,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52617,0.7836,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54999,0.7825,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54974,0.7812,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53504,0.7812,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50705,0.7808,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53797,0.779,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52962,0.7782,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54432,0.7782,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54543,0.778,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53073,0.778,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51314,0.7773,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51435,0.7758,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55473,0.7753,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54003,0.7753,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54045,0.7753,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53801,0.7749,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55271,0.7749,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54531,0.7749,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50908,0.7748,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51230,0.7746,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55515,0.7737,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53895,0.7735,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+50053,0.7731,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53173,0.7728,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54643,0.7728,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52977,0.7727,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52098,0.7716,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51893,0.7715,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51312,0.7715,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55021,0.7712,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52143,0.7707,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50673,0.7707,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52955,0.7706,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51874,0.7705,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+54420,0.7702,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52950,0.7702,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55127,0.7696,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53657,0.7696,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50356,0.7693,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54689,0.7685,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50915,0.7683,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55365,0.7677,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53112,0.7646,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52643,0.7631,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53160,0.7629,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54861,0.7628,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53730,0.7613,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52006,0.7604,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54582,0.7599,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51278,0.7595,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53776,0.7592,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55246,0.7592,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53492,0.7579,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51931,0.7569,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52123,0.7566,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55440,0.7557,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+53522,0.7556,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52377,0.7531,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50565,0.7525,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52035,0.7525,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52015,0.7522,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55192,0.7513,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53892,0.7512,Yüksek Risk,Kötü Ürün Deneyimi,URN-DEG,Ürün Memnuniyet Garantisi,Ücretsiz ürün değişimi teklif et,%25 indirim + ücretsiz iade hakkı (3 ay),1,200
+55177,0.7503,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52840,0.7501,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54297,0.7501,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55459,0.7498,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50371,0.7497,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52008,0.7484,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52569,0.7452,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52312,0.7449,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53723,0.7445,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53488,0.7439,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54958,0.7439,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50010,0.7407,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54937,0.7363,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54566,0.7356,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53096,0.7356,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54775,0.7353,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51173,0.7351,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50888,0.7325,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53195,0.7309,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53380,0.73,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54850,0.73,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54527,0.7293,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54212,0.7288,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51523,0.7281,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52385,0.7268,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53238,0.7257,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51673,0.7255,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+51397,0.7252,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54630,0.7252,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54583,0.7238,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54366,0.7232,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52896,0.7232,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53391,0.7201,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53712,0.7196,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+55182,0.7196,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50961,0.7182,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53722,0.7181,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53989,0.7174,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50714,0.715,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+50536,0.7133,Yüksek Risk,Operasyonel Süreç Hatası,OPS-ÖNCE,Öncelikli Müşteri Hizmetleri,"Dedike müşteri temsilcisi ata, 24 saat içinde ara",%20 indirim kuponu + ücretsiz kargo (1 ay),1,150
+52125,0.7122,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52046,0.7119,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50576,0.7119,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50012,0.7111,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51610,0.7106,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50140,0.7106,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52550,0.7096,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+51346,0.7081,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50015,0.7074,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+53519,0.7032,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54989,0.7032,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+54197,0.703,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+52009,0.7024,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100
+50539,0.7024,Yüksek Risk,Belirsiz,VIP-SAD,VIP Sadakat Paketi,Kişiselleştirilmiş e-posta + özel teklif gönder,100 TL cashback + VIP üyelik (3 ay ücretsiz),2,100

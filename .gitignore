@@ -1,0 +1,29 @@
+﻿# Python onbellegi
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Sanal ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Buyuk Veri Dosyalari (GitHub'a yuklenmemesi gereken cikti CSV'leri)
+*.csv
+!data/Musteriler.csv
+
+# Ortam degiskenleri ve gizli anahtarlar
+.env
+.env.*
+*.key
+*.pem
+
+# IDE ve Sistem dosyalari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

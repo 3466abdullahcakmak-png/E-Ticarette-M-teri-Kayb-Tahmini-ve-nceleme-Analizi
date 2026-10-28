@@ -1,0 +1,13 @@
+# Temel veri işleme
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Makine öğrenmesi
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# LLM API (opsiyonel)
+openai>=1.0.0
+
+# İlerleme çubuğu (opsiyonel, pip install ile yüklenir)
+tqdm>=4.65.0
